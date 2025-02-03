@@ -1,0 +1,11 @@
+{
+    "domain": "usertrmnl",
+    "name": "UserTRMNL Plugin",
+    "version": "1.0.0",
+    "documentation": "https://help.usetrmnl.com/en/articles/9510536-private-plugins",
+    "dependencies": [],
+    "requirements": ["requests"],
+    "config_flow": true,
+    "codeowners": ["@yourgithubhandle"]
+	"iot_class": "cloud_polling"
+}
