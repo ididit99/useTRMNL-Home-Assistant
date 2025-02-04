@@ -1,4 +1,4 @@
-# Home Assistant Integration with TRMNL Plugin
+# Home Assistant Integration with TRMNL Plugin (unfinished incomplete)
 
 This guide will walk you through setting up Home Assistant to send sensor data to a TRMNL plugin. It includes installation, configuration, and troubleshooting steps for common issues.
 
